@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # date:2018/9/19
-# comment:copy来的小猪佩奇
+# comment:神一般的小猪佩奇
 
-
+#用这个模板就得把自己想象站在这只王八的位置
 import turtle as t
 t.pensize(4)
 t.hideturtle()

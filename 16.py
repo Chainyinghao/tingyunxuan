@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # date:2018/9/19
-# comment:画一条蟒蛇，今天想复习一下海龟绘图
+# comment:画一条蟒蛇，今天想复习一下海王八绘图
 
 
 import turtle
